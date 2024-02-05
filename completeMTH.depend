@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1630306473 source:c:\users\meshach friday\documents\c++_codes\completemth\main.cpp
+	<iostream>
+	<math.h>
+	<string>
+	"MtechMth.h"
+
+1630286356 c:\users\meshach friday\documents\c++_codes\completemth\include\mtechmth.h
+	<string>
+
+1630347397 source:c:\users\meshach friday\documents\c++_codes\completemth\src\mtechmth.cpp
+	"MtechMth.h"
+	<iostream>
+	<string>
+	<math.h>
+
